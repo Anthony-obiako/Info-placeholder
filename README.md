@@ -1,2 +1,2 @@
 # Info-placeholder
-Content info placeholder
+Content info placeholder with loading animation
